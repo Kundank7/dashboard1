@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+react-saas.com	TRUE	/	FALSE	1999999999	NEXT_LOCALE	en
+.clerk.react-saas.com	TRUE	/	FALSE	1999999999	__cf_bm	s0iotS5uHf9sdCO_.M2SB3t046zpySvqRGd3nQ0BYsQ-1728821202-1.0.1.1-kuYEY0CBXHNoSGnx_jBXbMJMP_j.QW79XhqGx2winXFkLU7vvqdMv4HH.q3avZR72VCIbw4y5pVmQGkX4YAocA
+.clerk.react-saas.com	TRUE	/	FALSE	1999999999	_cfuvid	cULN_JGqJS91OlP4GozOt3_ezcYdemZOcvFvaI9i7sU-1728821202839-0.0.1.1-604800000
+clerk.react-saas.com	TRUE	/	FALSE	1999999999	SameSite	None
+
